@@ -1,0 +1,17 @@
+p{
+/* 	color: red;
+	text-align: center;
+	text-decoration: line-through;
+	text-transform: capitalize; */
+	direction: left;
+	letter-spacing: 5px;
+	text-shadow: aqua;
+	font-weight: 100;
+	font-style: '黑体';
+}
+
+/* body{
+	background-color: wheat;
+	background-image: url(../img/background.jpg);
+	background-repeat: no-repeat;
+} */
